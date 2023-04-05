@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source Spring or GPT based proof of concepts**
 
-- 👨‍💻 All of my projects are available at [donisiko.com](donisiko.com)
+- 👨‍💻 All of my projects are available at [donisiko.com](https://www.donisiko.com)
 
 - 💬 Ask me about **Java, Spring Boot/Cloud/Security/Kafka**
 
